@@ -1,0 +1,359 @@
+﻿{
+  "everyEvents": [
+    {
+      "id": "1",
+      "skillname": "冰刺",
+      "race": "1",
+      "skill": "0",
+      "injuryValue": -1
+    },
+    {
+      "id": "2",
+      "skillname": "冰暴",
+      "race": "1",
+      "skill": "1",
+      "injuryValue": -2
+    },
+    {
+      "id": "3",
+      "skillname": "冰裂",
+      "race": "1",
+      "skill": "2",
+      "injuryValue": -4
+    },
+    {
+      "id": "4",
+      "skillname": "冰封",
+      "race": "1",
+      "skill": "3",
+      "injuryValue": 0
+    },
+    {
+      "id": "5",
+      "skillname": "冰皇",
+      "race": "1",
+      "skill": "4",
+      "injuryValue": 10
+    },
+    {
+      "id": "6",
+      "skillname": "冰皇箭",
+      "race": "1",
+      "skill": "5",
+      "injuryValue": -50
+    },
+    {
+      "id": "7",
+      "skillname": "冰心",
+      "race": "1",
+      "skill": "6",
+      "injuryValue": 8
+    },
+
+
+    {
+      "id": "8",
+      "skillname": "初魂",
+      "race": "2",
+      "skill": "0",
+      "injuryValue": -1
+    },
+    {
+      "id": "9",
+      "skillname": "冥气",
+      "race": "2",
+      "skill": "1",
+      "injuryValue": -2
+    },
+    {
+      "id": "10",
+      "skillname": "冥将",
+      "race": "2",
+      "skill": "2",
+      "injuryValue": -4
+    },
+    {
+      "id": "11",
+      "skillname": "梦魇",
+      "race": "2",
+      "skill": "3",
+      "injuryValue": 0
+    },
+    {
+      "id": "12",
+      "skillname": "冥盔",
+      "race": "2",
+      "skill": "4",
+      "injuryValue": 10
+    },
+    {
+      "id": "13",
+      "skillname": "冥王",
+      "race": "2",
+      "skill": "5",
+      "injuryValue": -50
+    },
+    {
+      "id": "14",
+      "skillname": "冥液",
+      "race": "2",
+      "skill": "6",
+      "injuryValue": 8
+    },
+
+
+    {
+      "id": "15",
+      "skillname": "彗击",
+      "race": "3",
+      "skill": "0",
+      "injuryValue": -1
+    },
+    {
+      "id": "16",
+      "skillname": "恒击",
+      "race": "3",
+      "skill": "1",
+      "injuryValue": -2
+    },
+    {
+      "id": "17",
+      "skillname": "空裂",
+      "race": "3",
+      "skill": "2",
+      "injuryValue": -4
+    },
+    {
+      "id": "18",
+      "skillname": "黑洞",
+      "race": "3",
+      "skill": "3",
+      "injuryValue": 0
+    },
+    {
+      "id": "19",
+      "skillname": "虚空行走",
+      "race": "3",
+      "skill": "4",
+      "injuryValue": 10
+    },
+    {
+      "id": "20",
+      "skillname": "虚空行者",
+      "race": "3",
+      "skill": "5",
+      "injuryValue": -50
+    },
+    {
+      "id": "21",
+      "skillname": "重置",
+      "race": "3",
+      "skill": "6",
+      "injuryValue": 8
+    },
+
+
+    {
+      "id": "22",
+      "skillname": "木击",
+      "race": "4",
+      "skill": "0",
+      "injuryValue": -1
+    },
+    {
+      "id": "23",
+      "skillname": "树箭",
+      "race": "4",
+      "skill": "1",
+      "injuryValue": -2
+    },
+    {
+      "id": "24",
+      "skillname": "林狗",
+      "race": "4",
+      "skill": "2",
+      "injuryValue": -4
+    },
+    {
+      "id": "25",
+      "skillname": "神网",
+      "race": "4",
+      "skill": "3",
+      "injuryValue": 0
+    },
+    {
+      "id": "26",
+      "skillname": "木遁",
+      "race": "4",
+      "skill": "4",
+      "injuryValue": 10
+    },
+    {
+      "id": "27",
+      "skillname": "命王",
+      "race": "4",
+      "skill": "5",
+      "injuryValue": -50
+    },
+    {
+      "id": "28",
+      "skillname": "生",
+      "race": "4",
+      "skill": "6",
+      "injuryValue": 8
+    },
+
+
+    {
+      "id": "29",
+      "skillname": "火球术",
+      "race": "5",
+      "skill": "0",
+      "injuryValue": -1
+    },
+    {
+      "id": "30",
+      "skillname": "火鸟",
+      "race": "5",
+      "skill": "1",
+      "injuryValue": -2
+    },
+    {
+      "id": "31",
+      "skillname": "火刃",
+      "race": "5",
+      "skill": "2",
+      "injuryValue": -4
+    },
+    {
+      "id": "32",
+      "skillname": "燎原",
+      "race": "5",
+      "skill": "3",
+      "injuryValue": 0
+    },
+    {
+      "id": "33",
+      "skillname": "火甲",
+      "race": "5",
+      "skill": "4",
+      "injuryValue": 10
+    },
+    {
+      "id": "34",
+      "skillname": "火凤",
+      "race": "5",
+      "skill": "5",
+      "injuryValue": -50
+    },
+    {
+      "id": "35",
+      "skillname": "灼烧",
+      "race": "5",
+      "skill": "6",
+      "injuryValue": 8
+    },
+
+
+    {
+      "id": "36",
+      "skillname": "砍击",
+      "race": "6",
+      "skill": "0",
+      "injuryValue": -1
+    },
+    {
+      "id": "37",
+      "skillname": "翎羽",
+      "race": "6",
+      "skill": "1",
+      "injuryValue": -2
+    },
+    {
+      "id": "38",
+      "skillname": "撕咬",
+      "race": "6",
+      "skill": "2",
+      "injuryValue": -4
+    },
+    {
+      "id": "39",
+      "skillname": "兽群",
+      "race": "6",
+      "skill": "3",
+      "injuryValue": 0
+    },
+    {
+      "id": "40",
+      "skillname": "兽丹",
+      "race": "6",
+      "skill": "4",
+      "injuryValue": 10
+    },
+    {
+      "id": "41",
+      "skillname": "撕裂",
+      "race": "6",
+      "skill": "5",
+      "injuryValue": -50
+    },
+    {
+      "id": "42",
+      "skillname": "吸血",
+      "race": "6",
+      "skill": "6",
+      "injuryValue": 8
+    },
+
+
+    {
+      "id": "43",
+      "skillname": "降临",
+      "race": "7",
+      "skill": "0",
+      "injuryValue": -1
+    },
+    {
+      "id": "44",
+      "skillname": "电闪",
+      "race": "7",
+      "skill": "1",
+      "injuryValue": -2
+    },
+    {
+      "id": "45",
+      "skillname": "雷击",
+      "race": "7",
+      "skill": "2",
+      "injuryValue": -4
+    },
+    {
+      "id": "46",
+      "skillname": "光阵",
+      "race": "7",
+      "skill": "3",
+      "injuryValue": 0
+    },
+    {
+      "id": "47",
+      "skillname": "神盔",
+      "race": "7",
+      "skill": "4",
+      "injuryValue": 10
+    },
+    {
+      "id": "48",
+      "skillname": "金乌",
+      "race": "7",
+      "skill": "5",
+      "injuryValue": -50
+    },
+    {
+      "id": "49",
+      "skillname": "神心",
+      "race": "7",
+      "skill": "6",
+      "injuryValue": 8
+    }
+  ]
+}
